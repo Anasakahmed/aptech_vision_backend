@@ -1,0 +1,6 @@
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc brains\EntityFramework Code First BootStrap\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc brains\EntityFramework Code First BootStrap\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc brains\EntityFramework Code First BootStrap\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc brains\EntityFramework Code First BootStrap\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc brains\EntityFramework Code First BootStrap\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\salman\Documents\Visual Studio 2013\Projects\mvc brains\EntityFramework Code First BootStrap\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
